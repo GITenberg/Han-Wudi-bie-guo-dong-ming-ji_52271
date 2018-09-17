@@ -1,0 +1,32 @@
+_repo: Han-Wudi-bie-guo-dong-ming-ji_52271
+_version: 0.0.1
+alternative_title: Han Wudi bie guo dong ming ji
+creator:
+  author:
+    agent_name: Guo, Xian, active 1st century
+    aliases:
+    - 郭宪
+    - Guo, Ziheng
+    - Kuo, Hsien
+    - 郭子橫
+    - 郭憲
+    - Kuo, Tzu-heng
+    gutenberg_agent_id: '46751'
+    url: http://www.gutenberg.org/2009/agents/46751
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52271'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Han Wudi, Emperor of China, 156 B.C.-87 B.C. -- Fiction'
+- !lcsh 'Curiosities and wonders -- China -- Early works to 1900'
+- !lcsh 'Fantasy fiction, Chinese'
+- !lcc 'AC'
+- GITenberg
+title: 漢武帝別國洞冥記
+url: http://www.gutenberg.org/ebooks/52271
